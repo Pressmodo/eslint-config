@@ -1,0 +1,27 @@
+{
+    "name": "@pressmodo/eslint-config",
+    "version": "0.1.0",
+    "description": "A shareable ESLint configuration",
+    "main": ".eslintrc",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pressmodo/eslint-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/pressmodo/eslint-config/issues"
+    },
+    "author": "pressmodo <hello@pressmodo.com> (https://pressmodo.com)",
+    "license": "GPL-2.0+",
+    "homepage": "https://github.com/pressmodo/eslint-config#readme",
+    "keywords": [
+        "eslint",
+        "eslint-config",
+        "pressmodo"
+    ],
+    "devDependencies": {
+        "eslint": "^2.0.0"
+    },
+    "eslintConfig": {
+        "extends": "./.eslintrc"
+    }
+}
