@@ -19,7 +19,7 @@
         "pressmodo"
     ],
     "devDependencies": {
-        "eslint": "^2.0.0"
+        "eslint": "^6.8.0"
     },
     "eslintConfig": {
         "extends": "./.eslintrc"
